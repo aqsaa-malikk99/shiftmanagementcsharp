@@ -1,0 +1,15 @@
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.csproj.AssemblyReference.cache
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.AssemblyInfoInputs.cache
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.AssemblyInfo.cs
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.csproj.CoreCompileInputs.cache
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/bin/Debug/net7.0/ShiftManagementSystem
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/bin/Debug/net7.0/ShiftManagementSystem.deps.json
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/bin/Debug/net7.0/ShiftManagementSystem.runtimeconfig.json
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/bin/Debug/net7.0/ShiftManagementSystem.dll
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/bin/Debug/net7.0/ShiftManagementSystem.pdb
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.dll
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/refint/ShiftManagementSystem.dll
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.pdb
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ShiftManagementSystem.genruntimeconfig.cache
+/Users/aqsamalik/Projects/ShiftManagementSystem/ShiftManagementSystem/obj/Debug/net7.0/ref/ShiftManagementSystem.dll
